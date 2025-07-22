@@ -35,4 +35,4 @@
 To run the project locally:
 
 ```bash
-git clone https://github.com/TharunGit220/Rock-Paper-Scissors/
+git clone https://github.com/TharunGit220/Rock-Paper-Scissors
